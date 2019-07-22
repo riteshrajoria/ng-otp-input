@@ -6,4 +6,5 @@ export class Config{
     allowNumbersOnly?:boolean;
     inputClass?:string;
     containerClass?:string;
+    type?:string;
 }
